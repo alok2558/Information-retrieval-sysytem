@@ -1,0 +1,20 @@
+Q01	Code for parsing and generating JSON data
+Q02	statistical computing and graphics 
+Q03	programming language  in data mining
+Q04	Microsoft Corporation  Analytics
+Q05	 Facebook  Integrity  engagement team 
+Q06	stillbirth is  birth of child
+Q07	abnormal testicular development
+ Q08	course of testosterone prescribed
+ Q09	colourful Matrushka
+Q10	Spanning the literary globe
+Q11	chemical biology, molecular genetics, and immunochemistry
+Q12	Sundarbans National Park
+Q13	what is State Transport Corporation
+Q14	Shatrunjaya Palitana Tirtha
+Q15	Explain fibonacci heap
+Q16	Explain monte carlo method
+Q17	what is diagrammatic structure
+Q18	what is Fermat's little theorem
+Q19	symmetry Arithmetical investigation
+Q20	what is choas theory
